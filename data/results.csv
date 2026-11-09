@@ -1,0 +1,6 @@
+site,planet,lat,lon,box_km,native_px_m,coarse_px_m,coarse_px_y_m,coarse_grid,mean_elev,median_slope_native,median_slope_463m,mean_slope_463m
+Dallol (Danakil),Earth,14.24,40.3,20,30,450,461,44x43,-116.8,0.32,0.03,0.32
+Atacama,Earth,-24.09,-69.25,20,28,452,461,44x43,2217.8,3.47,2.92,3.61
+Haughton Crater,Earth,75.38,-89.67,20,23,468,461,42x43,219.2,4.79,2.11,2.58
+Death Valley,Earth,36.23,-116.77,20,25,474,461,42x43,476.4,4.24,3.9,7.21
+Meridiani Planum,Mars,-1.95,354.47,20,463,463,463,43x43,-1386.9,0.26,0.26,0.29

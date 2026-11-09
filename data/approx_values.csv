@@ -1,0 +1,6 @@
+factor,danakil,mars_meridiani,unit,source_note
+mean_surface_temp,34,-60,degC,approximate literature values - verify (MODIS LST / Mars climate data)
+surface_pressure,1013,6,mbar,standard approximations
+gravity,1.0,0.38,g,known constants
+radiation_dose_rate,0.3,28,uSv/h,approximate surface dose rates - verify (MSL RAD)
+median_slope,,,deg,not used - computed in analysis/danakil_mars_slope.ipynb and read from data/results.csv
