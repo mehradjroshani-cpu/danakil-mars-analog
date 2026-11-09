@@ -1,5 +1,7 @@
 # Danakil Depression as a Mars Analog
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mehradjroshani-cpu/danakil-mars-analog/blob/main/analysis/danakil_mars_slope.ipynb)
+
 Project for the NASA-style challenge *"Earth as a laboratory for the Moon and Mars"*.
 Proposes the Danakil Depression (Dallol, Ethiopia) as an under-used analog for **acidic, salt-rich Mars**
 (Meridiani Planum), with a simple, transparent similarity index.
